@@ -1,0 +1,6 @@
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/sereifen/ServerLessKitchenAngular.git
+[submodule "Frontend/Angular"]
+	path = Frontend/Angular
+	url = https://github.com/sereifen/ServerLessKitchenAngular.git
