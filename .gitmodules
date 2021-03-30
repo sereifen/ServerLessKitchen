@@ -1,6 +1,9 @@
-[submodule "Angular"]
-	path = Angular
-	url = https://github.com/sereifen/ServerLessKitchenAngular.git
 [submodule "Frontend/Angular"]
 	path = Frontend/Angular
 	url = https://github.com/sereifen/ServerLessKitchenAngular.git
+[submodule "BackEnd/C#"]
+	path = "BackEnd/C#"
+	url = https://github.com/sereifen/ServerlessKitchen.Net.git
+[submodule "Frontend/Vue"]
+	path = Frontend/Vue
+	url = https://github.com/sereifen/ServerLessKitcherVue.git
